@@ -213,6 +213,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primary-title-color);
+  background-color: #f5f4fa;
 }
 .btn:hover,
 .btn:focus {
